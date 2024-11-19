@@ -1,7 +1,7 @@
 {
   "homepage": "https://ifedolapo01.github.io/ife-ajayi-portfolio",
   "name": "ife-ajayi-portfolio",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
