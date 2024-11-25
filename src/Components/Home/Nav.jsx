@@ -66,7 +66,6 @@ const Nav = () => {
         </Link>
       </nav>
 
-      {/* Chat Button (hidden on small screens) */}
       <div className="lets-chat px-7 py-5 border-2 border-gray-800 cursor-pointer delay=500 hover:scale-105 hidden lg:block hover:text-custom-blue">
       <Link to="/contact" className="">Chat With Me</Link>
       </div>
