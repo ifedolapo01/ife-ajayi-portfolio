@@ -9,6 +9,7 @@ export default {
         'custom-blue': '#5765FC',
         'custom-dark': '#262626',
         'custom-yellow': '#FFD200',
+        'custom-burntorange': '#CC5500',
       },
     },
   },
