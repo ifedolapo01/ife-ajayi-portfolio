@@ -66,7 +66,7 @@ const Nav = () => {
         </Link>
       </nav>
 
-      <div className="lets-chat px-7 py-5 border-2 border-gray-800 cursor-pointer delay=500 hover:scale-105 hidden lg:block hover:text-custom-blue">
+      <div className="lets-chat px-7 py-5 border-2 border-gray-800 cursor-pointer delay=500 hover:scale-105 hidden lg:block  hover:transition-all hover:bg-gradient-to-b hover:from-custom-orange via-custom-yellow to-custom-blue hover:text-white">
       <Link to="/contact" className="">Chat With Me</Link>
       </div>
     </div>
